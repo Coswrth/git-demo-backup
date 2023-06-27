@@ -3,8 +3,17 @@ You must have known I wouldn't stay
 While you were talking about our life
 You killed the beauty of today
 
+<<<<<<< HEAD
 I never had to say goodbye
 You must have known I wouldn't stay
 While you were talking about our life
 You killed the beauty of today
 --------------------------------------------------------
+=======
+Forever and ever
+Life is now or never
+
+some stroka
+and here
+>>>>>>> d3e1d082702d6787fbb653e2d80b037a422a73e7
+---------------------------------------------------------
